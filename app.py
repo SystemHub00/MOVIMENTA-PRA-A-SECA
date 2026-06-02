@@ -134,12 +134,12 @@ TURMA_OPTIONS = [
         "turma_label": "Seg/Qua — 13h às 15h (início 08/06)",
         "agenda_id": "2", "periodo_id": "1", "encerramento_id": "1", "endereco_id": "1",
     },
-    # GERENCIAMENTO DE TRÁFEGO PAGO — 1 turma
+    # GERENCIAMENTO DE TRÁFEGO PAGO — 1 turma  ← ALTERADO: Ter/Qui 16h às 18h
     {
         "id": "8",  "curso_id": "7", "local_id": "1",
         "turma_codigo": "GTP-PS-01",
-        "turma_label": "Seg/Qua — 16h às 18h (início 08/06)",
-        "agenda_id": "3", "periodo_id": "1", "encerramento_id": "1", "endereco_id": "1",
+        "turma_label": "Ter/Qui — 16h às 18h (início 08/06)",
+        "agenda_id": "4", "periodo_id": "1", "encerramento_id": "1", "endereco_id": "1",
     },
     # CAMAREIRO — 2 turmas
     {
@@ -154,18 +154,18 @@ TURMA_OPTIONS = [
         "turma_label": "Ter/Qui — 16h às 18h (início 08/06)",
         "agenda_id": "4", "periodo_id": "1", "encerramento_id": "1", "endereco_id": "1",
     },
-    # MONITOR DE LAZER E RECREAÇÃO — 2 turmas
+    # MONITOR DE LAZER E RECREAÇÃO — 2 turmas  ← ALTERADO: Seg/Qua 16h às 18h
     {
         "id": "11", "curso_id": "9", "local_id": "1",
         "turma_codigo": "MLR-PS-01",
-        "turma_label": "Ter/Qui — 16h às 18h (início 08/06) — Turma 1",
-        "agenda_id": "4", "periodo_id": "1", "encerramento_id": "1", "endereco_id": "1",
+        "turma_label": "Seg/Qua — 16h às 18h (início 08/06) — Turma 1",
+        "agenda_id": "3", "periodo_id": "1", "encerramento_id": "1", "endereco_id": "1",
     },
     {
         "id": "12", "curso_id": "9", "local_id": "1",
         "turma_codigo": "MLR-PS-02",
-        "turma_label": "Ter/Qui — 16h às 18h (início 08/06) — Turma 2",
-        "agenda_id": "4", "periodo_id": "1", "encerramento_id": "1", "endereco_id": "1",
+        "turma_label": "Seg/Qua — 16h às 18h (início 08/06) — Turma 2",
+        "agenda_id": "3", "periodo_id": "1", "encerramento_id": "1", "endereco_id": "1",
     },
 ]
 
