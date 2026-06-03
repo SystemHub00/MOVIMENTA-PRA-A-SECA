@@ -158,7 +158,7 @@ TURMA_OPTIONS = [
     {
         "id": "11", "curso_id": "9", "local_id": "1",
         "turma_codigo": "MLR-PS-01",
-        "turma_label": "Seg/Qua — 16h às 18h (início 08/06) — Turma 1",
+        "turma_label": "Ter/Qui — 16h às 18h (início 08/06) — Turma 1",
         "agenda_id": "3", "periodo_id": "1", "encerramento_id": "1", "endereco_id": "1",
     },
     {
