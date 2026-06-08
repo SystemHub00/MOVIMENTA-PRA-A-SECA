@@ -64,7 +64,7 @@ SCHEDULE_OPTIONS = {
 # 4. DATAS DE INÍCIO
 # =============================================================================
 START_DATE_OPTIONS = {
-    "1": "08/06/2026",
+    "1": "15/06/2026",
 }
 
 # =============================================================================
@@ -78,7 +78,7 @@ END_DATE_OPTIONS = {
 # 6. ENDEREÇOS
 # =============================================================================
 ADDRESS_OPTIONS = {
-    "1": "📍Rua Marangá, n° 300, Bairro: Praça Seca/RJ, Cep: 21321-060 (Igreja Fonte de Vida Eterna)",
+    "1": "&#128205;Rua Marangá, n° 300, Bairro: Praça Seca/RJ, Cep: 21321-060 (Igreja Fonte de Vida Eterna)",
 }
 
 # =============================================================================
@@ -90,81 +90,81 @@ TURMA_OPTIONS = [
     {
         "id": "1",  "curso_id": "1", "local_id": "1",
         "turma_codigo": "IA-PS-01",
-        "turma_label": "Seg/Qua — 9h às 11h (início 08/06)",
+        "turma_label": "Seg/Qua — 9h às 11h (início 15/06)",
         "agenda_id": "1", "periodo_id": "1", "encerramento_id": "1", "endereco_id": "1",
     },
     # SOCIAL MEDIA — 1 turma
     {
         "id": "2",  "curso_id": "2", "local_id": "1",
         "turma_codigo": "SM-PS-01",
-        "turma_label": "Seg/Qua — 9h às 11h (início 08/06)",
+        "turma_label": "Seg/Qua — 9h às 11h (início 15/06)",
         "agenda_id": "1", "periodo_id": "1", "encerramento_id": "1", "endereco_id": "1",
     },
     # ORIENTADOR DE HOTELARIA — 2 turmas
     {
         "id": "3",  "curso_id": "3", "local_id": "1",
         "turma_codigo": "OH-PS-01",
-        "turma_label": "Seg/Qua — 9h às 11h (início 08/06)",
+        "turma_label": "Seg/Qua — 9h às 11h (início 15/06)",
         "agenda_id": "1", "periodo_id": "1", "encerramento_id": "1", "endereco_id": "1",
     },
     {
         "id": "4",  "curso_id": "3", "local_id": "1",
         "turma_codigo": "OH-PS-02",
-        "turma_label": "Seg/Qua — 16h às 18h (início 08/06)",
+        "turma_label": "Seg/Qua — 16h às 18h (início 15/06)",
         "agenda_id": "3", "periodo_id": "1", "encerramento_id": "1", "endereco_id": "1",
     },
     # AGENTE DE TURISMO CORPORATIVO — 1 turma
     {
         "id": "5",  "curso_id": "4", "local_id": "1",
         "turma_codigo": "ATC-PS-01",
-        "turma_label": "Seg/Qua — 13h às 15h (início 08/06)",
+        "turma_label": "Seg/Qua — 13h às 15h (início 15/06)",
         "agenda_id": "2", "periodo_id": "1", "encerramento_id": "1", "endereco_id": "1",
     },
     # UX/UI DESIGN — 1 turma
     {
         "id": "6",  "curso_id": "5", "local_id": "1",
         "turma_codigo": "UX-PS-01",
-        "turma_label": "Seg/Qua — 13h às 15h (início 08/06)",
+        "turma_label": "Seg/Qua — 13h às 15h (início 15/06)",
         "agenda_id": "2", "periodo_id": "1", "encerramento_id": "1", "endereco_id": "1",
     },
     # OPERADOR DE COMPOSTAGEM E RESÍDUOS ORGÂNICOS — 1 turma
     {
         "id": "7",  "curso_id": "6", "local_id": "1",
         "turma_codigo": "CR-PS-01",
-        "turma_label": "Seg/Qua — 13h às 15h (início 08/06)",
+        "turma_label": "Seg/Qua — 13h às 15h (início 15/06)",
         "agenda_id": "2", "periodo_id": "1", "encerramento_id": "1", "endereco_id": "1",
     },
-    # GERENCIAMENTO DE TRÁFEGO PAGO — 1 turma  ← ALTERADO: Ter/Qui 16h às 18h
+    # GERENCIAMENTO DE TRÁFEGO PAGO — 1 turma
     {
         "id": "8",  "curso_id": "7", "local_id": "1",
         "turma_codigo": "GTP-PS-01",
-        "turma_label": "Ter/Qui — 16h às 18h (início 08/06)",
+        "turma_label": "Ter/Qui — 16h às 18h (início 15/06)",
         "agenda_id": "4", "periodo_id": "1", "encerramento_id": "1", "endereco_id": "1",
     },
     # CAMAREIRO — 2 turmas
     {
         "id": "9",  "curso_id": "8", "local_id": "1",
         "turma_codigo": "CAM-PS-01",
-        "turma_label": "Seg/Qua — 16h às 18h (início 08/06)",
+        "turma_label": "Seg/Qua — 16h às 18h (início 15/06)",
         "agenda_id": "3", "periodo_id": "1", "encerramento_id": "1", "endereco_id": "1",
     },
     {
         "id": "10", "curso_id": "8", "local_id": "1",
         "turma_codigo": "CAM-PS-02",
-        "turma_label": "Ter/Qui — 16h às 18h (início 08/06)",
+        "turma_label": "Ter/Qui — 16h às 18h (início 15/06)",
         "agenda_id": "4", "periodo_id": "1", "encerramento_id": "1", "endereco_id": "1",
     },
-    # MONITOR DE LAZER E RECREAÇÃO — 2 turmas  ← ALTERADO: Seg/Qua 16h às 18h
+    # MONITOR DE LAZER E RECREAÇÃO — 2 turmas
     {
         "id": "11", "curso_id": "9", "local_id": "1",
         "turma_codigo": "MLR-PS-01",
-        "turma_label": "Ter/Qui — 16h às 18h (início 08/06) — Turma 1",
+        "turma_label": "Ter/Qui — 16h às 18h (início 15/06) — Turma 1",
         "agenda_id": "3", "periodo_id": "1", "encerramento_id": "1", "endereco_id": "1",
     },
     {
         "id": "12", "curso_id": "9", "local_id": "1",
         "turma_codigo": "MLR-PS-02",
-        "turma_label": "Seg/Qua — 16h às 18h (início 08/06) — Turma 2",
+        "turma_label": "Seg/Qua — 16h às 18h (início 15/06) — Turma 2",
         "agenda_id": "3", "periodo_id": "1", "encerramento_id": "1", "endereco_id": "1",
     },
 ]
@@ -800,20 +800,20 @@ TEMPLATE_WIZARD = r'''
                             <span class="hero-pill">PROJETO: MOVIMENTA RIO</span>
                             <h1 class="hero-title">CURSOS GRATUITOS EM PRAÇA SECA</h1>
                             <p class="hero-subtitle">
-                                Programa Movimenta Rio • Prefeitura do Rio de Janeiro
+                                Programa Movimenta Rio &#8226; Prefeitura do Rio de Janeiro
                             </p>
                             <div class="hero-highlights">
                                 <div class="hero-highlight" style="text-align:center;">
                                     <strong>CURSOS DISPONÍVEIS:</strong>
-                                    🤖 INTELIGÊNCIA ARTIFICIAL<br>
-                                    📚 SOCIAL MEDIA<br>
-                                    📚 ORIENTADOR DE HOTELARIA<br>
-                                    📚 AGENTE DE TURISMO CORPORATIVO<br>
-                                    📚 UX/UI DESIGN<br>
-                                    📚 OPERADOR DE SISTEMA DE COMPOSTAGEM E RESÍDUOS ORGÂNICOS<br>
-                                    📚 GERENCIAMENTO DE TRÁFEGO PAGO<br>
-                                    📚 CAMAREIRO<br>
-                                    🎈 MONITOR DE LAZER E RECREAÇÃO
+                                    &#129302; INTELIGÊNCIA ARTIFICIAL<br>
+                                    &#128218; SOCIAL MEDIA<br>
+                                    &#128218; ORIENTADOR DE HOTELARIA<br>
+                                    &#128218; AGENTE DE TURISMO CORPORATIVO<br>
+                                    &#128218; UX/UI DESIGN<br>
+                                    &#128218; OPERADOR DE SISTEMA DE COMPOSTAGEM E RESÍDUOS ORGÂNICOS<br>
+                                    &#128218; GERENCIAMENTO DE TRÁFEGO PAGO<br>
+                                    &#128218; CAMAREIRO<br>
+                                    &#127880; MONITOR DE LAZER E RECREAÇÃO
                                 </div>
                                 <div class="hero-highlight">
                                     <strong>BENEFÍCIOS</strong>
@@ -824,9 +824,9 @@ TEMPLATE_WIZARD = r'''
                                             <div class="benefit-slide">Material Didático Incluso</div>
                                         </div>
                                         <div class="benefits-controls">
-                                            <button type="button" class="benefits-nav" data-benefits-prev aria-label="Benefício anterior">‹</button>
+                                            <button type="button" class="benefits-nav" data-benefits-prev aria-label="Benefício anterior">&#8249;</button>
                                             <div class="benefits-dots" data-benefits-dots></div>
-                                            <button type="button" class="benefits-nav" data-benefits-next aria-label="Próximo benefício">›</button>
+                                            <button type="button" class="benefits-nav" data-benefits-next aria-label="Próximo benefício">&#8250;</button>
                                         </div>
                                     </div>
                                 </div>
@@ -916,13 +916,11 @@ TEMPLATE_WIZARD = r'''
 
                         <div class="step-grid step-grid--stacked">
 
-                            <!-- Local: único, exibido como input readonly -->
                             <div class="form-group full">
                                 <label for="local_display_top">Local *</label>
                                 <input type="text" id="local_display_top" class="readonly-field" readonly value="{{ local_options[0].nome if local_options else '' }}">
                             </div>
 
-                            <!-- Curso -->
                             <div class="form-group full">
                                 <label for="curso_id">Curso *</label>
                                 <select id="curso_id" name="curso_id">
@@ -934,7 +932,6 @@ TEMPLATE_WIZARD = r'''
                                 <div class="balao-erro" id="curso_id-error" {% if not errors.get('curso_id') %}hidden{% endif %}>{{ errors.get('curso_id', '') }}</div>
                             </div>
 
-                            <!-- Turma (aparece quando há mais de uma opção para o curso) -->
                             <div class="form-group full" id="turma-group" style="display:none;">
                                 <label for="opcao_id_select">Turma / Horário *</label>
                                 <select id="opcao_id_select">
@@ -943,14 +940,12 @@ TEMPLATE_WIZARD = r'''
                                 <div class="balao-erro" id="opcao_id-error" hidden></div>
                             </div>
 
-                            <!-- Hidden fields -->
                             <input type="hidden" id="opcao_id"  name="opcao_id"  value="{{ form_data.get('opcao_id', '') }}">
                             <input type="hidden" id="local_id"  name="local_id"  value="{{ form_data.get('local_id', '') }}">
                             <input type="hidden" id="local"     name="local"     value="{{ form_data.get('local', '') }}">
                             <input type="hidden" id="curso"     name="curso"     value="{{ form_data.get('curso', '') }}">
                             <input type="hidden" id="turma"     name="turma"     value="{{ form_data.get('turma', '') }}">
 
-                            <!-- Campos informativos readonly -->
                             <div class="form-group full">
                                 <label for="local_display">LOCAL SELECIONADO</label>
                                 <input type="text" id="local_display" class="readonly-field" readonly value="{{ form_data.get('local', '') }}">
@@ -980,7 +975,7 @@ TEMPLATE_WIZARD = r'''
                                 <label for="endereco_curso">ENDEREÇO</label>
                                 <div class="input-with-action">
                                     <input type="text" id="endereco_curso" name="endereco_curso" class="readonly-field" readonly value="{{ form_data.get('endereco_curso', '') }}">
-                                    <button type="button" class="icon-button" id="btn-copiar-endereco" title="Copiar endereço">COPIAR 📋</button>
+                                    <button type="button" class="icon-button" id="btn-copiar-endereco" title="Copiar endereço">COPIAR &#128203;</button>
                                 </div>
                             </div>
                         </div>
@@ -1087,7 +1082,6 @@ TEMPLATE_WIZARD = r'''
 
             var courseOptionsById = Object.fromEntries(courseOptions.map(function(o){ return [String(o.id), o]; }));
 
-            // ── Elementos — dados pessoais
             var nomeInput          = document.getElementById('nome');
             var generoInput        = document.getElementById('genero');
             var cpfInput           = document.getElementById('cpf');
@@ -1098,7 +1092,6 @@ TEMPLATE_WIZARD = r'''
             var emailInput         = document.getElementById('email');
             var confirmaDadosInput = document.getElementById('confirma_dados');
 
-            // ── Elementos — escolha do curso
             var courseSelect      = document.getElementById('curso_id');
             var opcaoSelectEl     = document.getElementById('opcao_id_select');
             var turmaGroup        = document.getElementById('turma-group');
@@ -1220,13 +1213,13 @@ TEMPLATE_WIZARD = r'''
             if (btnCopiarEndereco && enderecoInput) {
                 btnCopiarEndereco.addEventListener('click', function() {
                     navigator.clipboard.writeText(enderecoInput.value).then(function(){
-                        btnCopiarEndereco.textContent = 'COPIADO ✅';
+                        btnCopiarEndereco.textContent = 'COPIADO &#10003;';
                     }).catch(function(){
                         enderecoInput.select();
                         document.execCommand('copy');
-                        btnCopiarEndereco.textContent = 'COPIADO ✅';
+                        btnCopiarEndereco.textContent = 'COPIADO &#10003;';
                     });
-                    setTimeout(function(){ btnCopiarEndereco.textContent = 'COPIAR 📋'; }, 1200);
+                    setTimeout(function(){ btnCopiarEndereco.textContent = 'COPIAR &#128203;'; }, 1200);
                 });
             }
 
